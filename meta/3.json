@@ -1,0 +1,12 @@
+{
+  "name": "Stony Romo #3",
+  "symbol": "ROMO",
+  "description": "Devnet test banner for the SprotoSwap prototype.",
+  "image": "https://100.78.78.100:8790/meta/3.svg",
+  "attributes": [
+    {
+      "trait_type": "hue",
+      "value": "111"
+    }
+  ]
+}
